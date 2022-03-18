@@ -67,7 +67,7 @@ def delete_all():
 time.sleep(10)
 pyautogui.FAILSAFE = True
 
-spam_message_loop_no_delete()
-#spam_message_loop()
+#spam_message_loop_no_delete()
+spam_message_loop()
 # spam_haha_loop()
 # delete_all()
